@@ -5,7 +5,7 @@ function loadImage(url) {
     filtres.push(img);
 }
 const filtresURLs = ['filtres/landscape.jpg', 'filtres/portrait.jpg', 'filtres/carre.jpg'];
-const opacity = 0.65;
+const opacity = 0.6;
 
 const upload = document.querySelector('#upload');
 const download = document.querySelector('#download');
